@@ -9,7 +9,7 @@ let numbers = [1,2,3,4,5,6,7,8,9]
 // unshift() adds to front of array
 // filter() filters out elements of array
 // slice() removes element(s) by index (returns what was cut out)
-//splice() removes element(s) by index  (returns what was left)
+// splice() removes element(s) by index  (returns what was left)
 // map() manipulates and store as new array
 // forEach() does a function for each array
 
